@@ -144,14 +144,18 @@ p, li {
 
 @media screen and (min-width: 750px) {
     .container {
-        max-width: 700px;
+        max-width: 750px;
         border-radius: 15px;
-        margin-top: 4rem;
+        margin-top: 4   rem;
     }
 
     .container img {
         padding: 28px;
         border-radius: 35px;
+    }
+
+    h1 {
+        margin: 0;
     }
 }
 
